@@ -1,0 +1,6 @@
+TLDR; The game currently runs fully and correctly. 
+The text based runs as expected and plays the game as it should.
+The GUI based version runs as expected and plays the game as it should.
+In the GUI based version when a winner is found the game shows a message that says "PLAYER_COLOR wins!" and a message that says "Press 'R' to reset."
+At this point until the user presses 'R' the game is frozen and the user cannot interact with the board.
+The user can then press 'R' to reset the game and play again.
